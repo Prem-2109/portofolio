@@ -13,3 +13,7 @@ button.btn.btn-reveal, .btn:not(.close):not(.mfp-close).btn-reveal, a.btn:not([h
     font-size: 15px;
     line-height: 2.2rem;
 }
+.team-members .team-member .team-desc>p {
+    margin-top: 10px;
+    font-size: 13px !important;
+}
