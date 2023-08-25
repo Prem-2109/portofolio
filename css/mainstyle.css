@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+button.btn.btn-reveal, .btn:not(.close):not(.mfp-close).btn-reveal, a.btn:not([href]):not([tabindex]).btn-reveal {
+    padding: 14px 29px !important;
+}
+.heading-text{margin: 0 !important;}
+.about-me span{
+    font-size: 15px;
+    line-height: 2.2rem;
+}
